@@ -13,8 +13,10 @@ video.flv --> video.flv + picture.png
 
 # Exmple Advance Step1 :
 picture.png + crack.exe --> picture.png
+
 video.flv + picture.png --> video.flv
 
 # Exmple Advance Step2 :
 video.flv --> video.flv + picture.png
+
 picture.png --> picture.png + crack.exe
