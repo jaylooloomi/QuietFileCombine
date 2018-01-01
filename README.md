@@ -1,5 +1,5 @@
 # QuietFileCombine
-This api can easily combine the two distinct file
+This api can easily combine the two distinct file.
 
 # Example Step1 :
 video.flv + picture.png --> video.flv
