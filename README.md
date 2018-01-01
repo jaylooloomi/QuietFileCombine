@@ -11,12 +11,12 @@ video.flv --> video.flv + picture.png
 
 (利用合併後的影片檔，可還原出原始的圖片檔)
 
-# Advance Exmple Step1 :
+# Advance Example Step1 :
 picture.png + crack.exe --> picture.png
 
 video.flv + picture.png --> video.flv
 
-# Advance Exmple Step2 :
+# Advance Example Step2 :
 video.flv --> video.flv + picture.png
 
 picture.png --> picture.png + crack.exe
