@@ -1,5 +1,5 @@
 # QuietFileCombine
-This api can easily combine the two distinct file.
+This API can easily combine the two distinct file.
 
 And folder something file.
 
